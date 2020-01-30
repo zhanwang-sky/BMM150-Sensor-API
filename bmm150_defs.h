@@ -120,7 +120,7 @@
 /**\name Comment the below line to use fixed-point compensation and
  * un-comment it to obtain the output data in float */
 
-/*#define BMM150_USE_FLOATING_POINT*/
+#define BMM150_USE_FLOATING_POINT
 /********************************************************/
 /**\name Macro definitions */
 /**\name API success code */
